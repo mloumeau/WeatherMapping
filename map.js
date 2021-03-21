@@ -203,8 +203,8 @@ require([
         // Time to actually send the GET request to openweathermap.org.  When we get a response
         // it will call and execute the function we defined above.
         
-                
-            xmlhttp.open("GET", "http://api.openweathermap.org/data/2.5/group?id="+item+"&units=imperial&appid=dcff643d477152487bec2044edb10e39", true);
+            APPID='';
+            xmlhttp.open("GET", "http://api.openweathermap.org/data/2.5/group?id="+item+"&units=imperial&appid="+APPID, true);
             xmlhttp.send();              
         });
 
