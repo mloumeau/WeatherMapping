@@ -12,10 +12,12 @@ city they would like to examine.
 My API key has been removed from the source code, and has been replaced with an empty string. To have this code be functional, a valid
 API key for openweathermap.org is required.
 
+
+## Purpose
 The purpose of writing this software was to get more familiar with ArcGIS and JavaScript. Both of these concepts were a bit foreign to me
 so I thought this would be a great exercise to get to know both of these concepts better.
 
-
+## Logistics
 I used a list of 1,000 most popular US cities I found online. I wrote Python code to modify the list to be more code-friendly
 instead of manually taking out the portions I needed.  After a couple test runs of making 1,000 API calls per run, I received
 an email saying I exceeded my API call limit for openweathermap.org (60 calls per minute). My solution to this was the
