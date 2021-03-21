@@ -37,9 +37,9 @@ On top of this, I used Python to generate files that are necessary for the API c
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [ArcGIS](https://www.arcgis.com/index.html)
 * [OpenWeatherMap](https://openweathermap.org/)
+* [List of US Cities](https://gist.github.com/Miserlou/11500b2345d3fe850c92)
 
 # Future Work
 
