@@ -8,8 +8,8 @@ of each city. Instead of typing in a city, the top 1,000 most populated cities a
 city they would like to examine.
 
 
-The purpose of writing this software was to get more familiar with ArcGIS and JavaScript. Both of these concepts were a but foreign to me
-so I thought this would be a great exercise to get to know both of these elements better.
+The purpose of writing this software was to get more familiar with ArcGIS and JavaScript. Both of these concepts were a bit foreign to me
+so I thought this would be a great exercise to get to know both of these concepts better.
 
 
 I used a list of 1,000 most popular US cities I found online. I wrote Python code to modify the list to be more code-friendly
