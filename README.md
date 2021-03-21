@@ -7,6 +7,10 @@ close to 1,000 cities in the US.  The difference between this project and my oth
 of each city. Instead of typing in a city, the top 1,000 most populated cities are automatically generated, and the user can click on the
 city they would like to examine.
 
+## IMPORTANT
+
+My API key has been removed from the source code, and has been replaced with an empty string. To have this code be functional, a valid
+API key for openweathermap.org is required.
 
 The purpose of writing this software was to get more familiar with ArcGIS and JavaScript. Both of these concepts were a bit foreign to me
 so I thought this would be a great exercise to get to know both of these concepts better.
